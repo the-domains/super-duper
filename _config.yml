@@ -1,0 +1,14 @@
+layout_spectrum: 0.1237111845985055
+typography_spectrum: 0.62483364273794
+color:
+  brandStrength: 0.7577646495774388
+  lightness: 0.4308018935844302
+  saturation: 0.5575667070224881
+  rhythmicContrast: 0.8559554787352681
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Super Duper
